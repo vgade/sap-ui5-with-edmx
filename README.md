@@ -1,2 +1,5 @@
-# sap-ui5-with-edmx
-Sample SAP UI5 with EDMX file
+# lexmark
+
+> Lexmark Sample POC
+
+## Getting Started
